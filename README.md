@@ -13,7 +13,7 @@ Incluye tres páginas principales:
 - HTML5, CSS3, JavaScript
 
 ## Autor
-Jhon Ruvera
+Jhon Rivera
 
 ---
 
